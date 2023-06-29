@@ -1,0 +1,11 @@
+.grid-container {
+    width: 500px;
+    height: 500px;
+    color: white;
+    text-align: center;
+    margin:auto;
+    display: grid;
+    grid-template-columns: repeat(50, 10px);
+    grid-gap: 0;
+  }
+
